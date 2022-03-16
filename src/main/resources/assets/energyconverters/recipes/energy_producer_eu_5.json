@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ic2"
+    }
+  ],
+  "result": {
+    "item": "energyconverters:energy_producer_eu",
+    "data": 5
+  },
+  "pattern": [
+    "STS",
+    "TMT",
+    "ScS"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "S": {
+      "item": "#BLOCKIRON"
+    },
+    "c": {
+      "item": "ic2:crafting",
+      "data": 5
+    },
+    "T": {
+      "item": "ic2:te",
+      "data": 80
+    },
+    "M": {
+      "item": "energyconverters:energy_producer_eu",
+      "data": 4
+    }
+  }
+}

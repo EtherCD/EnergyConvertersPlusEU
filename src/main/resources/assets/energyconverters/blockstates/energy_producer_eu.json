@@ -1,0 +1,21 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "transform": "forge:default-block",
+    "model": "cube_all",
+    "textures": {
+      "all": "energyconverters:blocks/energy_producer_eu1",
+      "particle": "#all"
+    }
+  },
+  "variants": {
+    "tier=lv": { "model": "cube_all", "textures": { "all": "energyconverters:blocks/energy_producer_eu1" } },
+    "tier=mv": { "model": "cube_all", "textures": { "all": "energyconverters:blocks/energy_producer_eu2" } },
+    "tier=hv": { "model": "cube_all", "textures": { "all": "energyconverters:blocks/energy_producer_eu3" } },
+    "tier=ev": { "model": "cube_all", "textures": { "all": "energyconverters:blocks/energy_producer_eu4" } },
+    "tier=iv": { "model": "cube_all", "textures": { "all": "energyconverters:blocks/energy_producer_eu5" } },
+    "tier=ex": { "model": "cube_all", "textures": { "all": "energyconverters:blocks/energy_producer_eu6" } },
+    "tier=kv": { "model": "cube_all", "textures": { "all": "energyconverters:blocks/energy_producer_eu7" } },
+    "tier=ix": { "model": "cube_all", "textures": { "all": "energyconverters:blocks/energy_producer_eu8" } }
+  }
+}

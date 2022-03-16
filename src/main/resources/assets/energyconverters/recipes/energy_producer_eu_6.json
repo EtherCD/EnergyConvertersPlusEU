@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ic2"
+    }
+  ],
+  "result": {
+    "item": "energyconverters:energy_producer_eu",
+    "data": 6
+  },
+  "pattern": [
+    "STS",
+    "TMT",
+    "STS"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "S": {
+      "item": "ic2:resource",
+      "data": 12
+    },
+    "T": {
+      "item": "ic2:te",
+      "data": 80
+    },
+    "M": {
+      "item": "energyconverters:energy_producer_eu",
+      "data": 5
+    }
+  }
+}

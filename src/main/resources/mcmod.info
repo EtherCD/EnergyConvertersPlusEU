@@ -1,0 +1,17 @@
+[
+{
+  "modid": "energyconverters",
+  "name": "Energy Converters",
+  "description": "A mod to freely convert between different energy systems like IC2, RF and Tesla",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Xalcon/EnergyConverters",
+  "updateUrl": "",
+  "authorList": ["xalcon"],
+  "credits": "The Forge and FML guys, for making MC Forge; Tommys64",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [],
+  "useDependencyInformation": "false"
+}
+]

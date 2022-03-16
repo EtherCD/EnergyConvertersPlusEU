@@ -1,0 +1,24 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "buildcraftcore"
+    }
+  ],
+  "result": {
+    "item": "energyconverters:energy_producer_mj"
+  },
+  "pattern": [
+    "SIS",
+    "EPG",
+    "SIS"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "P": { "item": "buildcrafttransport:pipe_wood_item", "data": 0 },
+    "S": { "item": "#STONE" },
+    "E": { "item": "buildcraftcore:engine", "data": 1 },
+    "G": { "item": "#INGOTGOLD" },
+    "I": { "ore": "gearIron", "type": "forge:ore_dict" }
+  }
+}
